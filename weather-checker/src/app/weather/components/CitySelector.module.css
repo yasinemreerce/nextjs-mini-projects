@@ -1,0 +1,8 @@
+.select_option  {
+        color: black;
+}
+
+.select_option:hover {
+        color: rgb(50, 50, 50);
+}
+

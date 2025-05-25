@@ -1,0 +1,58 @@
+{
+  "Clear": {
+    "label": "Açık Hava",
+    "icon": "/icons/sun.svg"
+  },
+  "Clouds": {
+    "label": "Bulutlu",
+    "icon": "/icons/cloud.svg"
+  },
+  "Rain": {
+    "label": "Yağmurlu",
+    "icon": "/icons/rain.svg"
+  },
+  "Drizzle": {
+    "label": "Çiseleme",
+    "icon": "/icons/drizzle.svg"
+  },
+  "Thunderstorm": {
+    "label": "Fırtına",
+    "icon": "/icons/thunderstorm.svg"
+  },
+  "Snow": {
+    "label": "Karlı",
+    "icon": "/icons/snow.svg"
+  },
+  "Mist": {
+    "label": "Sisli",
+    "icon": "/icons/mist.svg"
+  },
+  "Smoke": {
+    "label": "Dumanlı",
+    "icon": "/icons/smoke.svg"
+  },
+  "Haze": {
+    "label": "Puslu",
+    "icon": "/icons/haze.svg"
+  },
+  "Fog": {
+    "label": "Yoğun Sis",
+    "icon": "/icons/fog.svg"
+  },
+  "Sand": {
+    "label": "Kum Fırtınası",
+    "icon": "/icons/sand.svg"
+  },
+  "Ash": {
+    "label": "Kül",
+    "icon": "/icons/ash.svg"
+  },
+  "Squall": {
+    "label": "Ani Fırtına",
+    "icon": "/icons/squall.svg"
+  },
+  "Tornado": {
+    "label": "Hortum",
+    "icon": "/icons/tornado.svg"
+  }
+}
